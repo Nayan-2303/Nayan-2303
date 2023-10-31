@@ -9,9 +9,7 @@
 
 <img align="left" src="https://images.app.goo.gl/y6gFFzHLp4CD8dps8" alt="Nayan-2303">
 
-- Python
-- PowerBI
-- SQL
+🔹 Python  🔹 PowerBI  🔹 SQL
 
 ### ⚙️ Tech Stack
 
