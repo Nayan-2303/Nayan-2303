@@ -12,6 +12,7 @@
 - Python
 - PowerBI
 - SQL
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://images.app.goo.gl/y6gFFzHLp4CD8dps8)"  />
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PowerBI-05122A?style=flat-square&logo=PowerBI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
