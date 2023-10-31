@@ -1,43 +1,23 @@
-### Nayan Rathod
-###
+# Nayan Rathod
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNayan-2303%2FNayan-2303&count_bg=%23a79C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/nayan-rathod-697a5a227//)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nayanbanjara2303@gmail.com)
 [![Github](https://img.shields.io/github/followers/Nayan-2303?label=Follow&style=social)](https://github.com/Nayan-2303)
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+
+### 🖥 Skills
+
+<img align="left" src="https://images.app.goo.gl/y6gFFzHLp4CD8dps8" alt="Nayan-2303">
+
+- Python
+- PowerBI
+- SQL
+
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PowerBI-05122A?style=flat-square&logo=PowerBI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayan-2303&show_icons=true&locale=en&layout=compact" alt="Nayan-2303" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-2303&" alt="Nayan-2303" />
 </div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Nayan Rathod from Nandurbar<br><br>- 🏫 I’m Student at RCPIT, Shirpur <br>- 📚 I'm currently learning Python and PowerBI<br>- ⚡ In my free time I like to explore about Technology</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="SQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" height="40" alt="PowerBI logo" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
