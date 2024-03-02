@@ -7,7 +7,7 @@
 
 ### 🖥 Skills
 
-🔹 Python  🔹 PowerBI  🔹 SQL
+🔹 Java 🔹 Python  🔹 PowerBI  🔹 MySQL 🔹 Data Analytics
 
 ### ⚙️ Tech Stack
 
