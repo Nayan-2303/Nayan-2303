@@ -42,8 +42,3 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-2303&" alt="Nayan-2303" />
 </p>
 
-<!-- Feather icons script -->
-<script src="https://unpkg.com/feather-icons"></script>
-<script>
-  feather.replace()
-</script>
