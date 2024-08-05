@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Rathod</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Tech Student from India</h3>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
@@ -10,6 +10,7 @@
   </a>
   <a href="https://nayan-2303.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=Portfolio&logoColor=white" alt="Portfolio">
+    <img src="https://cdn-icons.flaticon.com/png/512/3476/premium/3476457.png?token=exp=1659208547~hmac=b2d9aeb1d2a3f67ad249f9c896e07f78" width="20" height="20" alt="Portfolio Logo">
   </a>
   <a href="mailto:nayanbanjara2303@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
@@ -23,7 +24,7 @@
 <!--   🖥 Skills</h3> -->
 
 <p align="center">
-<!-- 🔹 Python 🔹 PowerBI 🔹 MySQL 🔹 Data Analytics 🔹 Excel 🔹 Java  -->
+<!--   🔹 Java 🔹 Python 🔹 PowerBI 🔹 MySQL 🔹 Data Analytics -->
 </p>
 
 <h3 align="center">⚙️ Tech Stack</h3>
@@ -36,10 +37,11 @@
   <img src="https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535" alt="Numpy">
   <img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535" alt="Matplotlib">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=Microsoft-Excel&color=353535" alt="Excel">
+  <img src="https://img.shields.io/badge/-Data%20Analysis-05122A?style=flat-square&logo=Databricks&color=353535" alt="Data Analysis">
 </p>
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayan-2303&show_icons=true&locale=en&layout=compact" alt="Nayan-2303" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-2303&" alt="Nayan-2303" />
 </p>
-
