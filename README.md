@@ -8,9 +8,8 @@
   <a href="https://www.linkedin.com/in/nayan-rathod-697a5a227/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://nayan-2303.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat" alt="Portfolio">
-    <img src="https://cdn-icons.flaticon.com/png/512/3476/premium/3476457.png?token=exp=1659208547~hmac=b2d9aeb1d2a3f67ad249f9c896e07f78" width="20" height="20" alt="Portfolio Logo">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=Portfolio&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:nayanbanjara2303@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
@@ -23,7 +22,7 @@
 <h3 align="center">🖥 Skills</h3>
 
 <p align="center">
-🔹 Python 🔹 PowerBI 🔹 MySQL 🔹 Data Analytics 🔹 Java 
+🔹 Python 🔹 PowerBI 🔹 MySQL 🔹 Data Analytics 🔹 Excel 🔹 Java 
 </p>
 
 <h3 align="center">⚙️ Tech Stack</h3>
@@ -42,3 +41,9 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayan-2303&show_icons=true&locale=en&layout=compact" alt="Nayan-2303" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-2303&" alt="Nayan-2303" />
 </p>
+
+<!-- Feather icons script -->
+<script src="https://unpkg.com/feather-icons"></script>
+<script>
+  feather.replace()
+</script>
