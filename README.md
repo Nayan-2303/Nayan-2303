@@ -10,7 +10,6 @@
   </a>
   <a href="https://nayan-2303.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=Portfolio&logoColor=white" alt="Portfolio">
-    <img src="https://cdn-icons.flaticon.com/png/512/3476/premium/3476457.png?token=exp=1659208547~hmac=b2d9aeb1d2a3f67ad249f9c896e07f78" width="20" height="20" alt="Portfolio Logo">
   </a>
   <a href="mailto:nayanbanjara2303@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
