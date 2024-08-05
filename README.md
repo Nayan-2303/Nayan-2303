@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/nayan-rathod-697a5a227/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://nayan-2303.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=Portfolium&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:nayanbanjara2303@gmail.com">
