@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Nayan-2303&show_icons=true&locale=en" alt="Nayan-2303" />
+<!--   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Nayan-2303&show_icons=true&locale=en" alt="Nayan-2303" /> -->
 </p>
