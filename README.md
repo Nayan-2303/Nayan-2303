@@ -19,13 +19,6 @@
   </a>
 </p>
 
-<h3 align="center">
-<!--   🖥 Skills</h3> -->
-
-<p align="center">
-<!--   🔹 Java 🔹 Python 🔹 PowerBI 🔹 MySQL 🔹 Data Analytics -->
-</p>
-
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <p align="center">
@@ -41,6 +34,10 @@
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayan-2303&show_icons=true&locale=en&layout=compact" alt="Nayan-2303" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-2303&" alt="Nayan-2303" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayan-2303&show_icons=true&locale=en&layout=compact" alt="Nayan-2303" />
+  <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-2303&" alt="Nayan-2303" />
+</p>
+
+<p align="center">
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Nayan-2303&show_icons=true&locale=en" alt="Nayan-2303" />
 </p>
